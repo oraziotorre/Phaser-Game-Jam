@@ -1,3 +1,2 @@
 # PhaserGameJam
-This is the implemtation of "Utopian Land Adventure", 
-the video game made in the team competition [Phaser Game Jam](https://phaser-gamejam.web.app/)
+"Utopian Land Adventure" is the video game created by my team in the [Phaser Game Jam](https://phaser-gamejam.web.app/)
